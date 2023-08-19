@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "casecheck",
+            "request": "launch",
+            "mainClass": "casecheck",
+            "projectName": "javaPractise_e6669f2d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CalculatorMake",
+            "request": "launch",
+            "mainClass": "CalculatorMake",
+            "projectName": "javaPractise_e6669f2d"
+        },
+        {
+            "type": "java",
+            "name": "CountOccurance",
+            "request": "launch",
+            "mainClass": "CountOccurance",
+            "projectName": "javaPractise_e6669f2d"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Reverse",
+            "projectName": "javaPractise_e6669f2d"
+        },
+        {
+            "type": "java",
+            "name": "SwitchSe",
+            "request": "launch",
+            "mainClass": "SwitchSe",
+            "projectName": "javaPractise_e6669f2d"
+        },
+        {
+            "type": "java",
+            "name": "calculator",
+            "request": "launch",
+            "mainClass": "calculator",
+            "projectName": "javaPractise_e6669f2d"
+        },
+        {
+            "type": "java",
+            "name": "greatestnum",
+            "request": "launch",
+            "mainClass": "greatestnum",
+            "projectName": "javaPractise_e6669f2d"
+        },
+        {
+            "type": "java",
+            "name": "loops",
+            "request": "launch",
+            "mainClass": "loops",
+            "projectName": "javaPractise_e6669f2d"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "javaPractise_e6669f2d"
+        }
+    ]
+}
