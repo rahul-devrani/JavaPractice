@@ -6,6 +6,118 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseArray",
+            "request": "launch",
+            "mainClass": "ReverseArray",
+            "projectName": "javaPractise_e6669f2d"
+        },
+        {
+            "type": "java",
+            "name": "reverseArray",
+            "request": "launch",
+            "mainClass": "reverseArray",
+            "projectName": "javaPractise_e6669f2d"
+        },
+        {
+            "type": "java",
+            "name": "max",
+            "request": "launch",
+            "mainClass": "max",
+            "projectName": "javaPractise_e6669f2d"
+        },
+        {
+            "type": "java",
+            "name": "swap",
+            "request": "launch",
+            "mainClass": "swap",
+            "projectName": "javaPractise_e6669f2d"
+        },
+        {
+            "type": "java",
+            "name": "passingInFunction",
+            "request": "launch",
+            "mainClass": "passingInFunction",
+            "projectName": "javaPractise_e6669f2d"
+        },
+        {
+            "type": "java",
+            "name": "multiDimensionArray",
+            "request": "launch",
+            "mainClass": "multiDimensionArray",
+            "projectName": "javaPractise_e6669f2d"
+        },
+        {
+            "type": "java",
+            "name": "input",
+            "request": "launch",
+            "mainClass": "input",
+            "projectName": "javaPractise_e6669f2d"
+        },
+        {
+            "type": "java",
+            "name": "sumOfnNos",
+            "request": "launch",
+            "mainClass": "functions.sumOfnNos",
+            "projectName": "javaPractise_e6669f2d"
+        },
+        {
+            "type": "java",
+            "name": "fun",
+            "request": "launch",
+            "mainClass": "functions.fun",
+            "projectName": "javaPractise_e6669f2d"
+        },
+        {
+            "type": "java",
+            "name": "primeAndPalindrome",
+            "request": "launch",
+            "mainClass": "functions.primeAndPalindrome",
+            "projectName": "javaPractise_e6669f2d"
+        },
+        {
+            "type": "java",
+            "name": "largestOfAllNos",
+            "request": "launch",
+            "mainClass": "largestOfAllNos",
+            "projectName": "javaPractise_e6669f2d"
+        },
+        {
+            "type": "java",
+            "name": "sumofAllInputs",
+            "request": "launch",
+            "mainClass": "sumofAllInputs",
+            "projectName": "javaPractise_e6669f2d"
+        },
+        {
+            "type": "java",
+            "name": "factorsOfNumber",
+            "request": "launch",
+            "mainClass": "factorsOfNumber",
+            "projectName": "javaPractise_e6669f2d"
+        },
+        {
+            "type": "java",
+            "name": "fibnocciSeries",
+            "request": "launch",
+            "mainClass": "fibnocciSeries",
+            "projectName": "javaPractise_e6669f2d"
+        },
+        {
+            "type": "java",
+            "name": "areaOfTriangle",
+            "request": "launch",
+            "mainClass": "areaOfTriangle",
+            "projectName": "javaPractise_e6669f2d"
+        },
+        {
+            "type": "java",
+            "name": "areaOfCircle",
+            "request": "launch",
+            "mainClass": "areaOfCircle",
+            "projectName": "javaPractise_e6669f2d"
+        },
+        {
+            "type": "java",
             "name": "casecheck",
             "request": "launch",
             "mainClass": "casecheck",
