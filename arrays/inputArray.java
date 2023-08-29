@@ -16,7 +16,7 @@ public class inputArray {
             System.out.print( arr[i] + " ");
         }
     
-        scan.close();
+        scan.close(); 
     }
     
 }
